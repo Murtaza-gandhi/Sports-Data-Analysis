@@ -2,7 +2,7 @@
 The Data is of IPL Auction 
 We have name of players,Name of Teams,Price paid by teams for the Player  
 
-#Analysis 
+# Analysis 
 I have created Tables of the following :-
 1 - Team wise total and average spandig on a player 
 2 - Team wise avrage spanding on types of player 
